@@ -1,2 +1,2 @@
-novice programmer \n
+novice programmer\ 
 langs: Java, JS, HTML, CSS, C++
