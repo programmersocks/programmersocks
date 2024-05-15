@@ -1,2 +1,1 @@
-novice programmer\ 
-langs: Java, JS, HTML, CSS, C++
+novice programmer | langs: Java, JS, HTML, CSS, C++
